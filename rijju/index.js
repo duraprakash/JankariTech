@@ -26,6 +26,22 @@ console.log("Hello");
 =======
 hi i have added here.
 console.log("Hello");
+hi i have added here.
+
+    hehehehe
+// function fetchData() {
+//     return new Promise(resolve => {
+//         setTimeout(() => resolve("Hello, World!"), 1000);
+//     });
+// }
+//
+// async function displayData() {
+//     const data = await fetchData();
+//     console.log(data);
+// }
+//
+// displayData();
+//
 
 <<<<<<< HEAD
 >>>>>>> 99b1a07 (added in line 24)
