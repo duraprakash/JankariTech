@@ -21,9 +21,8 @@
 //
 //     display();
 //
-hi i have added here.
 
-    heheheheee
+
 // function fetchData() {
 //     return new Promise(resolve => {
 //         setTimeout(() => resolve("Hello, World!"), 1000);
@@ -37,5 +36,3 @@ hi i have added here.
 //
 // displayData();
 //
-
-ffffrom laxmi
