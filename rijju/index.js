@@ -21,18 +21,6 @@
 //
 //     display();
 //
+console.log("Hello");
 
-
-// function fetchData() {
-//     return new Promise(resolve => {
-//         setTimeout(() => resolve("Hello, World!"), 1000);
-//     });
-// }
-//
-// async function displayData() {
-//     const data = await fetchData();
-//     console.log(data);
-// }
-//
-// displayData();
-//
+ffffrom laxmi
