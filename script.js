@@ -23,3 +23,8 @@ const place = {placeName: 'Pokhara', code: '33700', tole: {toleName:'Janapriya t
 const {placeName, code, tole: {toleName, ward}} = place;
 console.log(placeName,toleName, ward);
 
+// Default parameters
+
+function greet(name ="Guest") {
+    console.log(`Hello`)
+}
