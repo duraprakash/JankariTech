@@ -26,6 +26,23 @@ console.log("Hello");
 =======
 hi i have added here.
 
+<<<<<<< HEAD
 >>>>>>> 99b1a07 (added in line 24)
 
 ffffrom laxmi
+=======
+    hehehehe
+// function fetchData() {
+//     return new Promise(resolve => {
+//         setTimeout(() => resolve("Hello, World!"), 1000);
+//     });
+// }
+//
+// async function displayData() {
+//     const data = await fetchData();
+//     console.log(data);
+// }
+//
+// displayData();
+//
+>>>>>>> 0df2c33 ( made changes in 26)
