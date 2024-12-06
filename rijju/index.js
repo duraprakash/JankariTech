@@ -21,6 +21,11 @@
 //
 //     display();
 //
+<<<<<<< HEAD
 console.log("Hello");
+=======
+hi i have added here.
+
+>>>>>>> 99b1a07 (added in line 24)
 
 ffffrom laxmi
