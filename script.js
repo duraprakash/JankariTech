@@ -28,3 +28,4 @@ console.log(placeName,toleName, ward);
 function greet(name ="Guest") {
     console.log(`Hello`)
 }
+greet();
